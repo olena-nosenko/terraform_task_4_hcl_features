@@ -9,4 +9,3 @@
 *.tfvars
 *.tfvars.json
 *.tfvars*
-*outputs.tf
